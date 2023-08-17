@@ -156,12 +156,6 @@ button[type="submit"] {
     font-size: 13px;
     height: 40px;
 }
-/*lanzamineto*/
-.titulo-lanzamiento{
-    display: flex;
-    justify-content: center;
-    margin-top: 25px;
-}
 .shoes {
     display: flex;
     flex-wrap: wrap;
@@ -175,11 +169,6 @@ button[type="submit"] {
 }
 .shoes p {
     margin: 0;
-}
-.titulo-ofertas{
-    display: flex;
-    justify-content: center;
-    margin: 25px;
 }
 /* Estilos para el contenido */
 .contenido {
