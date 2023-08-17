@@ -319,3 +319,7 @@ button[type="submit"] {
     background-position: center center;
     background-size: cover; /*Tamano(ancho) de la talla*/
 }
+.img-fondo-categorias{
+  background-image: url(fondo-ofertas-lanzamiento.png);
+  width: 100%;
+}
